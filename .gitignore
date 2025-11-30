@@ -1,0 +1,5 @@
+**/*.exe
+**/*.sqlite
+**/*.nsys-rep
+**/*.exp
+**/*.lib
